@@ -1,5 +1,5 @@
 using UnityEngine;
-using static UnityEngine.UI.ScrollRect;
+
 public enum MovementType
 {
     Straight,
@@ -7,6 +7,7 @@ public enum MovementType
     ZigZag,
     StopAndShoot
 }
+
 public class EnemyMovement : MonoBehaviour
 {
     public MovementType movementType;
@@ -14,11 +15,21 @@ public class EnemyMovement : MonoBehaviour
     public float amplitude = 2f;
     public float frequency = 2f;
 
+    public EnemySpawner spawner;
+
     float startX;
+
+    Camera cam;
+    float camWidth;
+    float camHeight;
 
     void Start()
     {
         startX = transform.position.x;
+
+        cam = Camera.main;
+        camHeight = 2f * cam.orthographicSize;
+        camWidth = camHeight * cam.aspect;
     }
 
     void Update()
@@ -42,16 +53,54 @@ public class EnemyMovement : MonoBehaviour
                 transform.Translate(Vector2.down * speed * Time.deltaTime);
                 break;
         }
+
+        ClampHorizontal();
+        CheckIfOffScreen();
+    }
+
+    void ClampHorizontal()
+    {
+        Vector3 camPos = cam.transform.position;
+
+        float minX = camPos.x - camWidth / 2;
+        float maxX = camPos.x + camWidth / 2;
+
+        Vector3 pos = transform.position;
+        pos.x = Mathf.Clamp(pos.x, minX, maxX);
+        transform.position = pos;
+    }
+
+    void CheckIfOffScreen()
+    {
+        float bottomY = cam.transform.position.y - camHeight / 2;
+
+        if (transform.position.y < bottomY - 1f)
+        {
+            DestroyEnemy();
+        }
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player Bullet"))
         {
-            Debug.Log("Enemy Hit");
-
             other.gameObject.SetActive(false);
-            Destroy(gameObject);
+            DestroyEnemy();
         }
+    }
+
+    void DestroyEnemy()
+    {
+        if (spawner != null)
+            spawner.EnemyDied();
+
+        Destroy(gameObject);
+    }
+
+    // Extra safety: ensure EnemyDied always called
+    void OnDestroy()
+    {
+        if (spawner != null)
+            spawner.EnemyDied();
     }
 }

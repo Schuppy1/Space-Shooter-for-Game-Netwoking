@@ -1,33 +1,92 @@
 using UnityEngine;
+using System.Collections;
 
 public class EnemySpawner : MonoBehaviour
 {
     public GameObject enemyPrefab;
-    public float spawnRate = 2f;
+
+    [Header("Wave Settings")]
+    public int baseEnemiesPerWave = 5;
+    public float baseSpawnDelay = 0.7f;
+    public float timeBetweenWaves = 3f;
+
+    [Header("Scaling")]
+    public float enemyIncreaseRate = 1.5f;
+    public float spawnSpeedIncrease = 0.03f;
+    public float enemySpeedIncrease = 0.2f;
+
+    private int currentWave = 1;
+    private int enemiesAlive = 0;
+
     Camera cam;
+
     void Start()
     {
         cam = Camera.main;
-        InvokeRepeating("SpawnEnemy", 1f, spawnRate);
+        StartCoroutine(WaveLoop());
     }
 
-    void SpawnEnemy()
+    IEnumerator WaveLoop()
     {
-        Vector3 left = cam.ViewportToWorldPoint(new Vector3(0, 1, 0));
-        Vector3 right = cam.ViewportToWorldPoint(new Vector3(1, 1, 0));
+        while (true)
+        {
+            int enemiesThisWave = Mathf.RoundToInt(baseEnemiesPerWave + currentWave * enemyIncreaseRate);
+            float spawnDelay = Mathf.Max(0.2f, baseSpawnDelay - currentWave * spawnSpeedIncrease);
 
-        float randomX = Random.Range(left.x, right.x);
+            Debug.Log($"Wave {currentWave} | Enemies: {enemiesThisWave}");
 
-        Vector3 spawnPos = new Vector3(randomX, left.y + 1f, 0);
+            for (int i = 0; i < enemiesThisWave; i++)
+            {
+                SpawnEnemy(currentWave);
+                yield return new WaitForSeconds(spawnDelay);
+            }
+
+            // Wait until all enemies are gone
+            yield return new WaitUntil(() => enemiesAlive <= 0);
+
+            yield return new WaitForSeconds(timeBetweenWaves);
+
+            currentWave++;
+        }
+    }
+
+    void SpawnEnemy(int wave)
+    {
+        Vector3 spawnPos = GetTopSpawnPosition();
 
         GameObject enemy = Instantiate(enemyPrefab, spawnPos, Quaternion.identity);
 
-        // RANDOM MOVEMENT
-        EnemyMovement movement = enemy.GetComponent<EnemyMovement>();
-        movement.movementType = (MovementType)Random.Range(0, 3);
+        enemiesAlive++; // track enemies on screen
 
-        // RANDOM SHOOTING
+        EnemyMovement movement = enemy.GetComponent<EnemyMovement>();
+        movement.movementType = (MovementType)Random.Range(0, 4);
+        movement.spawner = this;
+        movement.speed += wave * enemySpeedIncrease;
+
+        // Optional shooting
         EnemyShooter shooter = enemy.GetComponent<EnemyShooter>();
-        shooter.shootType = (ShootType)Random.Range(0, 4);
+        if (shooter != null)
+        {
+            shooter.shootType = (ShootType)Random.Range(0, 4);
+        }
+    }
+
+    Vector3 GetTopSpawnPosition()
+    {
+        float camHeight = 2f * cam.orthographicSize;
+        float camWidth = camHeight * cam.aspect;
+
+        Vector3 camPos = cam.transform.position;
+
+        float x = Random.Range(-camWidth / 2, camWidth / 2);
+        float y = camHeight / 2; // top edge
+
+        return new Vector3(x, y, 0) + camPos;
+    }
+
+    public void EnemyDied()
+    {
+        enemiesAlive = Mathf.Max(0, enemiesAlive - 1);
+        // Debug.Log("Enemies alive: " + enemiesAlive);
     }
 }

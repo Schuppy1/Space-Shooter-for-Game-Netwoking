@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Space Shooter\\",
+  "WorkspaceRootPath": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|d:\\space shooter\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|d:\\space shooter\\assets\\scripts\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|c:\\users\\jemc5a04\\documents\\github\\space-shooter-for-game-netwoking\\space shooter\\assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,41 +42,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BulletPool.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\BulletPool.cs",
+              "DocumentMoniker": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\BulletPool.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BulletPool.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\BulletPool.cs",
+              "ToolTip": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\BulletPool.cs",
               "RelativeToolTip": "Assets\\Scripts\\BulletPool.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T16:25:32.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Bullet.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\Bullet.cs",
               "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:40:21.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ScreenBounds.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\ScreenBounds.cs",
+              "DocumentMoniker": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\ScreenBounds.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenBounds.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\ScreenBounds.cs",
+              "ToolTip": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\ScreenBounds.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScreenBounds.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EnemyShooting.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\EnemyShooting.cs",
+              "DocumentMoniker": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemyShooting.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShooting.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\EnemyShooting.cs",
+              "ToolTip": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemyShooting.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyShooting.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAmwFAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwC0AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:55:58.424Z",
               "EditorCaption": ""
@@ -99,34 +99,35 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemyMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwGkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:43:36.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "EnemySpawner.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemySpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwFsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T15:42:59.149Z"
+              "WhenOpened": "2026-03-15T15:42:59.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerShooting.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\PlayerShooting.cs",
+              "DocumentMoniker": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\PlayerShooting.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooting.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\PlayerShooting.cs",
+              "ToolTip": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\PlayerShooting.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerShooting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,13 +136,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\jemc5a04\\Documents\\GitHub\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:37:32.738Z",
               "EditorCaption": ""

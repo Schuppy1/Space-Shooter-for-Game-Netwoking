@@ -82,7 +82,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 4992231793082163873, guid: 78d21fb90675cf641a82f9dadd02a684, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -110,6 +110,7 @@ MonoBehaviour:
   speed: 3
   amplitude: 2
   frequency: 2
+  spawner: {fileID: 0}
 --- !u!114 &1242231598022130276
 MonoBehaviour:
   m_ObjectHideFlags: 0
