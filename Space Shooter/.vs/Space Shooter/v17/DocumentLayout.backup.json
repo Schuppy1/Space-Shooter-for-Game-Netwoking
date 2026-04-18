@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Space Shooter\\",
+  "WorkspaceRootPath": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|d:\\space shooter\\assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Space Shooter\\assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|d:\\good dragons\\space-shooter-for-game-netwoking\\space shooter\\assets\\imagescroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\imagescroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|d:\\good dragons\\space-shooter-for-game-netwoking\\space shooter\\assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,30 +46,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ImageScroller.cs",
+              "DocumentMoniker": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\ImageScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\ImageScroller.cs",
+              "ToolTip": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\ImageScroller.cs",
+              "RelativeToolTip": "Assets\\ImageScroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T15:40:21.316Z",
+              "WhenOpened": "2026-04-18T17:06:53.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "BulletPool.cs",
+              "DocumentMoniker": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\BulletPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletPool.cs",
+              "ToolTip": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\BulletPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletPool.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:25:32.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:40:21.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ScreenBounds.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\ScreenBounds.cs",
+              "DocumentMoniker": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\ScreenBounds.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenBounds.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\ScreenBounds.cs",
+              "ToolTip": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\ScreenBounds.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScreenBounds.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T16:15:29.811Z",
               "EditorCaption": ""
@@ -70,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EnemyShooting.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\EnemyShooting.cs",
+              "DocumentMoniker": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemyShooting.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShooting.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\EnemyShooting.cs",
+              "ToolTip": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemyShooting.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyShooting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,49 +113,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\EnemyMovement.cs",
+              "DocumentMoniker": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemyMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wDAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T15:43:36.569Z"
+              "WhenOpened": "2026-03-15T15:43:36.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EnemySpawner.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\EnemySpawner.cs",
+              "DocumentMoniker": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\EnemySpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T15:42:59.149Z"
+              "WhenOpened": "2026-03-15T15:42:59.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "PlayerShooting.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\PlayerShooting.cs",
+              "DocumentMoniker": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\PlayerShooting.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooting.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\PlayerShooting.cs",
+              "ToolTip": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\PlayerShooting.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerShooting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:41:29.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\Space Shooter\\Assets\\Scripts\\PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "D:\\Space Shooter\\Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Good Dragons\\Space-Shooter-for-Game-Netwoking\\Space Shooter\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:37:32.738Z"
             }
